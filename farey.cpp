@@ -1,6 +1,6 @@
 #include <iostream>
 
-// This uses the "Naive Fraction Sum", where you basically add the nominators and denominators of two fractions like this:
+// The algorithm uses the "Naive Fraction Sum", where you add the nominators and denominators of two fractions like this:
 //  a     c       a + c 
 // --- & --- --> -------
 //  b     d       b + d
